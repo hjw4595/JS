@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+ul {
+    color: white;
+}
+a{
+    color: white;
+}
+h1 {
+    color: white;
+}
+
+#clock{
+    font-size: 30%;
+    color: firebrick;
+}
+#main-container{
+    padding: 1rem;
+}
+
+#left-box {
+    float: left;
+    width: 20%;
+}
+
+#right-box {
+    float: right;
+    width: 80%;
+
+}
+
+#header {
+    width: 20%;
+}
+
+#footer{
+    color: white;
+    height: 10%;
+    padding-top: 1rem;
+    clear: both;
+}
