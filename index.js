@@ -1,13 +1,11 @@
-const title = document.querySelector("title");
+const title = document.querySelector("#title");
+const CLICKED_CLASS ="clicked";
 
-const BASE_COLOR = "coral" 
 function handleClick() {
-    title.style.color = "blue";
+    title.classList.toggle(CLICKED_CLASS);
 }
 
-function init(){  // 초기화
-    title.style.color = BASE_COLOR;
+function init(){
     title.addEventListener("click", handleClick)
 }
-
-title.addEventListener("click", handleClick);
+init()

@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: palegreen;
 }
 ul {
     color: white;
@@ -7,13 +7,26 @@ ul {
 a{
     color: white;
 }
+h4{
+    color: white;
+}
 h1 {
     color: white;
 }
-
+.form,
+.greeting{
+    color: white;
+    display: none;
+}
+.showing {
+    display: block;
+  }
+.clicked{
+    color : yellowgreen;
+}
 #clock{
-    font-size: 30%;
-    color: firebrick;
+    font-size: 14;
+    color: darkgreen;
 }
 #main-container{
     padding: 1rem;
