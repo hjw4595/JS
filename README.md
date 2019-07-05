@@ -16,3 +16,4 @@ const name = {
 const pluse = name.plus(a, b)
 
 
+modified:   contents (modified content, untracked content) 에러
