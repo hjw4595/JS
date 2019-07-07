@@ -20,3 +20,4 @@ modified:   contents (modified content, untracked content) 에러
 해결
 git rm -r --cached .
 git add .
+rm contents
