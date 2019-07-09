@@ -15,6 +15,9 @@ const name = {
 }
 const pluse = name.plus(a, b)
 
+than 데이터를 받고 함수 호출 
+
+https://openweathermap.org 날씨 api
 
 modified:   contents (modified content, untracked content) 에러
 해결
