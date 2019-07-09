@@ -72,3 +72,6 @@ h1 {
     z-index: -1;  /*뒤로 옮기기 (배경)*/
     animation: fadeIn 0.5s linear;
   }
+  .weather{
+      color: whitesmoke
+  }
